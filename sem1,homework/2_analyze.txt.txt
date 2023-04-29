@@ -1,0 +1,4 @@
+head
+left sidebar      
+body 
+footer

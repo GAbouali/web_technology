@@ -1,4 +1,4 @@
-head
-left sidebar      
-body 
-footer
+1. head of site : at the top of page
+2. left sidebar : on the left side of page, on long of the page      
+3. body :  which contains a several articles. and some icons with links 
+4. footer: at the end of page which contains the site policym contacts, site description, and othe links 

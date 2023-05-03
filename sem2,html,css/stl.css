@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(122, 207, 109);
+}
+h1{      /* to select the text color of h1 in html */
+    color: brown;
+}
+h2{       /* to select the text color of h2 in html */
+    color: orange;
+}
+a{       /* to select the text color of a in html */
+    color: rgb(79, 29, 215);
+}
+a:hover{
+    color: black;
+}
+ul{     /* to change the circule to square in the first list */
+    list-style-type: square;
+}
+.big_text{   /* to select the paragraph font size */
+    font-size: 1.4rem;
+}
+img{    /* to select the images size */
+    width: 40vw;
+}

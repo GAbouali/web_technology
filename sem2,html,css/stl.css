@@ -21,4 +21,5 @@ ul{     /* to change the circule to square in the first list */
 }
 img{    /* to select the images size */
     width: 40vw;
+    margin-left: 25px;  /* to move images 25px to left */
 }
